@@ -1,0 +1,2 @@
+{"level":"info","message":"Got request GET /echo?message=Hello","timestamp":"2017-03-14T09:41:09.345Z"}
+{"level":"debug","message":"Echo: Hello","timestamp":"2017-03-14T09:41:09.347Z"}
